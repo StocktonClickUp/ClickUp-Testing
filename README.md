@@ -1,7 +1,5 @@
 
 
-Here's a sample README message for your GitHub repository. You can customize it further to fit your project's specifics:
-
 ---
 
 # Project Name
